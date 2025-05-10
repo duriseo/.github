@@ -2,6 +2,7 @@
 사회적 약자에게 식권을 통해 식사할 수 있는 환경을 제공함으로써 식사 지원을 제공할 수 있는 서비스
 
 라이브 미리보기: https://duriseo.suhan.io
+API 명세서: https://simple-giant-ff4.notion.site/API-1eb0cb1497e881f8ae9dd27c6db09fbe
 
 * 테스트 계정
 가게 사장님: test@test.com / 12345678
