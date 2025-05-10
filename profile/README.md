@@ -8,5 +8,5 @@
     <a href="https://github.com/duriseo">|</a>
 	<a href="https://github.com/duriseo/duriseo-infra">Infrastructure</a>
     <br/>
-    <a href="https://github.com/duriseo/.github/INTRODUCTION.md">서비스 소개</a>
+    <a href="https://github.com/duriseo/.github/blob/main/INTRODUCTION.md">서비스 소개</a>
 </div>
