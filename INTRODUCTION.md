@@ -7,15 +7,9 @@
 API 명세서: https://simple-giant-ff4.notion.site/API-1eb0cb1497e881f8ae9dd27c6db09fbe
 
 * 테스트 계정
-
-
-가게 사장님: test@test.com / 12345678
-
-
-일반 사용자: user@user.com / 12345678
-
-
-사회적 약자: benefit@test.com / 12345678
+    * 가게 사장님: test@test.com / 12345678
+    * 일반 사용자: user@user.com / 12345678
+    * 사회적 약자: benefit@test.com / 12345678
 
 ## 1.서비스 개요
 
