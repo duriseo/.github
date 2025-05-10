@@ -7,6 +7,8 @@
 API 명세서: https://simple-giant-ff4.notion.site/API-1eb0cb1497e881f8ae9dd27c6db09fbe
 
 * 테스트 계정
+
+
 가게 사장님: test@test.com / 12345678
 
 
