@@ -3,7 +3,6 @@
 
 라이브 미리보기: https://duriseo.suhan.io
 
-
 API 명세서: https://simple-giant-ff4.notion.site/API-1eb0cb1497e881f8ae9dd27c6db09fbe
 
 * 테스트 계정
@@ -11,6 +10,17 @@ API 명세서: https://simple-giant-ff4.notion.site/API-1eb0cb1497e881f8ae9dd27c
     * 일반 사용자: user@user.com / 12345678
     * 사회적 약자: benefit@test.com / 12345678
 
+#### Technology Stack (기술 스택)
+🖥 Frontend - Next.js, TypeScript, SWR
+
+
+🔧 Backend - Java + Spring Boot, Spring Security, Spring Data JPA, MySQL
+
+
+🧱 Infrastructure - AWS, Docker, nginx(Reverse Proxy)
+
+
+🤝 Cooperation (협업 도구) - GitHub Notion 
 ## 1.서비스 개요
 
 ### 서비스 대상
