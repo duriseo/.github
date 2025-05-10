@@ -3,6 +3,11 @@
 
 라이브 미리보기: https://duriseo.suhan.io
 
+* 테스트 계정
+가게 사장님: test@test.com / 12345678
+일반 사용자: user@user.com / 12345678
+사회적 약자: benefit@test.com / 12345678
+
 ## 1.서비스 개요
 
 ### 서비스 대상
